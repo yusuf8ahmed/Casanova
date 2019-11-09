@@ -34,7 +34,7 @@ class ipgeo:
         res5 = requests.get(url5)
 
         con = res.json()
-        con3 = res.json()
+        con3 = res3.json()
         con4 = res4.json()
         con5 = res5.json()
 
